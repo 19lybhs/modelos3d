@@ -1,0 +1,12 @@
+body {
+    color: black;
+    background-color: rgba(255, 238, 0, 0.514);
+    max-width:fit-content;
+    align-content: center;
+    font-size: large;
+}
+
+p {
+    color: black;
+    align-content: center;
+}
